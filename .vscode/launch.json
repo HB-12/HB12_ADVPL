@@ -1,0 +1,36 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "TOTVS Language Debug",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "C:\\smartclient Homolog\\smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true,
+			"programArguments": [],
+			"enableMultiThread": false,
+			"enableProfile": false,
+			"isAccessibilityMode": false,
+			"doNotShowSplash": false,
+			"openglMode": false,
+			"dpiMode": false,
+			"language": "",
+			"ignoreFiles": false
+		}
+	],
+	"lastPrograms": [
+		{
+			"label": "U_ESCOPO1"
+		},
+		{
+			"label": "U_OPERADORES"
+		},
+		{
+			"label": "U_Olamundo"
+		}
+	],
+	"lastProgramExecuted": "U_Olamundo"
+}
