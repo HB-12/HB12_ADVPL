@@ -7,7 +7,7 @@
 			"name": "TOTVS Language Debug",
 			"program": "${command:AskForProgramName}",
 			"cwb": "${workspaceFolder}",
-			"smartclientBin": "C:\\smartclient Homolog\\smartclient.exe",
+			"smartclientBin": "C:\\smartclient(HOM21_07)\\smartclient.exe",
 			"isMultiSession": true,
 			"enableTableSync": true,
 			"programArguments": [],
@@ -23,14 +23,17 @@
 	],
 	"lastPrograms": [
 		{
+			"label": "OLamundo"
+		},
+		{
+			"label": "U_OLAMUNDO"
+		},
+		{
+			"label": "U_VARIAVEL"
+		},
+		{
 			"label": "U_ESCOPO1"
-		},
-		{
-			"label": "U_OPERADORES"
-		},
-		{
-			"label": "U_Olamundo"
 		}
 	],
-	"lastProgramExecuted": "U_Olamundo"
+	"lastProgramExecuted": "U_ESCOPO1"
 }
